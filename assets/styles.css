@@ -1,0 +1,31 @@
+.name {
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 150px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.about {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-bottom: 25px;
+}
+
+a {
+	color: #64a9e9;
+}
+
+.links {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}
+
+.links a {
+	margin-right: 25px;
+}
+
+a:link {
+	text-decoration: none;
+}
