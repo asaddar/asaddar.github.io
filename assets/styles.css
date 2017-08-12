@@ -1,16 +1,18 @@
 .name {
-	font-family: 'Reenie Beanie', cursive;
-	font-size: 150px;
+	font-family: 'Karla';
+	font-size: 100px;
 	text-align: center;
-	margin-bottom: 50px;
+	margin-bottom: 20px;
 }
 
-.about {
-	font-family: 'Open Sans', sans-serif;
+h3 {
+	font-family: 'Raleway';
 	text-align: center;
-	margin-left: 200px;
-	margin-right: 200px;
-	margin-bottom: 25px;
+	font-size: 24px;
+}
+
+.rutgers {
+	color: #ff2400
 }
 
 a {
